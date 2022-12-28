@@ -6,6 +6,7 @@ public class Samim {
 		
 		System.out.println("this is from Eclipes for Samim Class");
 		System.out.println("this is inside the eclipes Branch");
+		System.out.println("this is for merging");
 
 	}
 
